@@ -1,0 +1,4 @@
+.env
+worklink.db
+__pycache__/
+*.pyc
